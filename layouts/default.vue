@@ -35,8 +35,6 @@ export default {
 	},
 	methods: {
 		switchLoc(e) {
-			// eslint-disable-next-line no-console
-			console.log(e);
 			const locale = e.target.value;
 			localStorage.setItem('locale', locale);
 			this.$router.push(this.switchLocalePath(locale));
