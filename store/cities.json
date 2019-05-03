@@ -1,0 +1,61 @@
+[{
+	"id":1,
+	"slug":"kiev",
+	"en":{
+		"name":"Kiev, Ukraine"
+	},
+	"de":{
+		"name":"Kiew, Ukraine"
+	},
+	"ru":{
+		"name":"Киев, Украина"
+	}
+},{
+	"id":2,
+	"slug":"vienna",
+	"en":{
+		"name":"Vienna, Austria"
+	},
+	"de":{
+		"name":"Wien, Österreich"
+	},
+	"ru":{
+		"name":"Вена, Австрия"
+	}
+},{
+	"id":3,
+	"slug":"berlin",
+	"en":{
+		"name":"Berlin, Germany"
+	},
+	"de":{
+		"name":"Berlin, Deutschland"
+	},
+	"ru":{
+		"name":"Берлин, Германия"
+	}
+},{
+	"id":4,
+	"slug":"moscow",
+	"en":{
+		"name":"Moscow, Russia"
+	},
+	"de":{
+		"name":"Moskau, Russland"
+	},
+	"ru":{
+		"name":"Москва, Россия"
+	}
+},{
+	"id":5,
+	"slug":"london",
+	"en":{
+		"name":"London, England"
+	},
+	"de":{
+		"name":"London, England"
+	},
+	"ru":{
+		"name":"Лондон, Англия"
+	}
+}]
