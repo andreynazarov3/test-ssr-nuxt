@@ -1,6 +1,8 @@
 <template>
 	<div>
-		<nuxt-link :to="localePath({ name: 'index' })">Back</nuxt-link>
+		<nuxt-link class="back" :to="localePath({ name: 'index' })">
+			← {{ $t('Back') }}
+		</nuxt-link>
 		<h1>{{ getCityName() }}</h1>
 	</div>
 </template>
@@ -23,3 +25,11 @@ export default {
 	}
 };
 </script>
+<style>
+.back {
+	text-decoration: none;
+}
+.back:hover {
+	text-decoration: underline;
+}
+</style>

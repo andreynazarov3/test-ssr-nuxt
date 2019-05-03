@@ -67,13 +67,16 @@ export default {
 					fallbackLocale: 'en',
 					messages: {
 						en: {
-							Cities: 'Cities'
+							Cities: 'Cities',
+							Back: 'Back'
 						},
 						de: {
-							Cities: 'Städte'
+							Cities: 'Städte',
+							Back: 'Zurück'
 						},
 						ru: {
-							Cities: 'Города'
+							Cities: 'Города',
+							Back: 'Назад'
 						}
 					}
 				}
